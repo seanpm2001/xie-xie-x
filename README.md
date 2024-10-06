@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="https://thumbs.dreamstime.com/b/wooden-letters-forming-words-xie-mandarin-thank-you-199451819.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
+</div>
+<br />
 <p align="center">
   <a href="mailto:xie_xie_x@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
@@ -13,6 +17,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-<div style="text-align: center;">
-  <img src="https://thumbs.dreamstime.com/b/wooden-letters-forming-words-xie-mandarin-thank-you-199451819.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
-</div>
